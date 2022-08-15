@@ -1,0 +1,4 @@
+[submodule "excursion"]
+	path = excursion
+	url = https://github.com/PeterM8/excursion
+	branch = master
